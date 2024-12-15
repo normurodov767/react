@@ -1,0 +1,44 @@
+.About-1{
+    width: 100%;
+    height: 920px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+about{
+    width: 1164px;
+    height: 492px;
+    display: flex;
+    justify-content: space-between;
+}
+.school{
+    width: 535px;
+    height: 492px;
+    box-shadow: 0px 4px 35px 0px #33333380;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49.52px;
+    text-align: left;
+    margin: 0;
+}
+
+.About-2{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.About-p{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    text-wrap: wrap;
+    width: 584px;
+    height: 398px;
+}

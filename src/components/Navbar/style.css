@@ -1,0 +1,40 @@
+.navbar{
+    background: #5855E7;
+    height: 143px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.navbar img{
+    width: 156px;
+    height: 111px;
+    top: 16px;
+    left: 76px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.list{
+    display: flex;
+    color: #FFFFFF;
+    text-align: center;
+    list-style: none;
+    gap: 40px;
+    font-size: 24px;
+}
+
+.navbtn{
+    width: 268px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.navbtn a{
+    text-decoration: none;
+    color: #000000;
+}

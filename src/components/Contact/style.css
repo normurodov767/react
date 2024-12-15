@@ -1,0 +1,208 @@
+.container{
+
+
+    height:998px;
+
+    width:100%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container h1{
+
+
+
+    font-family: Gilroy;
+font-size: 96px;
+font-weight: 700;
+line-height: 118.85px;
+text-align: center;
+color: #EEEEEE;
+margin: 0;
+
+}
+.container p{
+
+
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 700;
+line-height: 49.52px;
+text-align: center;
+position: relative;
+bottom:45px;
+right:10px
+
+
+
+
+}
+
+.wrapper{
+
+    width: 462px;
+    height: 86px;
+
+    
+
+}
+
+.section32{
+
+
+    width: 1100px;
+    height: 734px;
+   background-color:#5855E7;
+   margin-top: 81px;
+   border-radius: 15px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+    
+}
+
+.contacts{
+
+height:615px;
+
+width:485px;
+
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+.number h1{
+
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48.52px;
+    text-align: left;
+ 
+
+}
+
+.work__days{
+
+
+
+    display:flex;
+    gap:12px;
+ 
+    height: 21px;
+ 
+
+}
+.work__days div{
+
+    width: 20px;
+    height: 20px;
+   
+    background-color: #A23AC1;
+
+}
+
+.work__days span{
+
+
+    font-family: Gilroy;
+font-size: 24px;
+font-weight: 400;
+
+text-align:left;
+color:azure
+
+}
+
+.number img{
+
+    width: 485px;
+    height: 338px;
+
+
+}
+.input__form{
+
+    height:615px;
+    
+    width:400px;
+    
+    display: flex;
+    flex-direction: column;
+  justify-content: space-between;
+
+    
+    }
+
+    
+    .input__form h1{
+
+        font-family: Gilroy;
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 48.52px;
+        text-align: left;
+        
+        
+        
+    }
+
+    .input__form span{
+
+        font-family: Gilroy;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.6px;
+text-align: left;
+color:#FFFFFF;
+
+width: 329px;
+height: 38px;
+
+
+
+    }
+
+     .input__form  input{
+
+        width: 395px;
+        height: 52px;
+       
+        border-radius: 5px ;
+        
+        
+
+    }
+    .input__form input:nth-child(5){
+
+        width: 395px;
+        height: 262px;
+        top: 4905px;
+        left: 834px;
+        gap: 0px;
+        border-radius: 5px;
+        opacity: 0px;
+        
+
+    }
+
+    .input__form button{
+
+        width: 197px;
+        height: 52px;
+        
+        border-radius: 5px;
+        font-family: Gilroy;
+font-size: 24px;
+line-height: 28.13px;
+text-align: center;
+border: none;
+margin-left: 203px;
+
+
+        
+        
+
+    }
